@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 const PageContainer = styled.div`
-  padding: 48px 80px 52px;
+  padding: 17px 68px 1px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -13,7 +13,7 @@ const PageContainer = styled.div`
 
 const Heading = styled.h1`
   font-family: "Poppins", sans-serif;
-  font-size: 48px;
+  font-size: 39px;
   font-weight: 700;
   line-height: 52.8px;
 `;
@@ -22,7 +22,7 @@ const Form = styled.form`
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 20px;
+  margin-top: 9px;
 `;
 
 const Label = styled.label`
@@ -32,7 +32,7 @@ const Label = styled.label`
   font-weight: 500;
   line-height: 19.8px;
   padding-right: 422px;
-  margin-bottom: 16px;
+  margin-bottom: 13px;
 `;
 
 const Input = styled.input`
@@ -41,7 +41,7 @@ const Input = styled.input`
   border-radius: 8px;
   border: 1px solid rgba(4, 7, 47, 0.4);
   padding: 15px 300px 5px 5px;
-  margin-bottom: 32px;
+  margin-bottom: 20px;
   font-family: "Poppins", sans-serif;
   font-size: 18px;
   font-style: normal;

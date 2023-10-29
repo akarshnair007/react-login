@@ -2,8 +2,8 @@ import styled from "styled-components";
 
 // Define the styled component outside of the component function
 const StyledImage = styled.img`
-  width: 543.219px;
-  height: 633.601px;
+  width: 400px;
+  height: 474px;
   background: #fff;
 `;
 

@@ -4,7 +4,7 @@ import RightPage from "./components/RightPage";
 
 const Wrapper = styled.div`
   display: inline-flex;
-  padding: 40px 40px 40px 142px;
+  padding: 27px 40px 40px 81px;
   justify-content: flex-end;
   align-items: center;
   gap: 147.781px;
